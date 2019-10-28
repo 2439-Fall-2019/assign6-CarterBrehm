@@ -1,4 +1,4 @@
-# 2439assign6
-Template repo for assignment #6 in mobile web app dev
+# 2439assign5
+template repository for assignment 5 in mobile web application dev
 
-[Assignment #6 Instructions](https://docs.google.com/document/d/e/2PACX-1vTCZs7XZkmn7R3MPrL52KzoQnuNbtMTMpK2yR6r6WiIcybHkSO0-YezsRcPZRV3BQ/pub)
+[Assignment #5 Instructions](https://docs.google.com/document/d/e/2PACX-1vQOilyBwNx4O8HDOd7i8bOS7YXpDrFK2efqwozFTBe1O9Z9RY_KLQYaDqjFJb4LJg/pub)
